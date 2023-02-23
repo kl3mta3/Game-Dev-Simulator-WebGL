@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fe5e87b19a3e874ebeb37eb19aed93e, type: 3}
+  m_Name: Spinning Circles with Beeps.
+  m_EditorClassIdentifier: 
+  gameConceptName: Spinning Circles with Beeps.
+  gameConceptId: 1
+  gameDescription: Spinning Circles with Boxes Hit Space when Boxes Meet get a beep.
+  modelingDificulty: 25
+  codingDificulty: 15
+  designDificulty: 10
+  marketingDificulty: 25
+  gamePriceSteem: 5
+  gamePriceEpik: 5
+  gamePricePear: 1
+  gamePriceCyborg: 1
+  gamePricePlayBox: 3
+  gamePriceXStation: 3
+  steemMaintenanceFee: 12
+  epikMaintenanceFee: 12
+  pearMaintenanceFee: 10
+  cyborgMaintenanceFee: 10
+  playBoxMaintenanceFee: 15
+  xStationMaintenanceFee: 15
+  devTime: 282
